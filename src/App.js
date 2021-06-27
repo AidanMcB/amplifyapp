@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1> A test for the Amplify Deployment via AWS</h1>
+        <button onClick={()=>console.log("clicked da button")}>Button</button>
         <a
           className="App-link"
           href="https://reactjs.org"
